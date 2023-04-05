@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/YPatlo?tab=repositories](https://www.github.com/YPatlo?tab=repositories)
 
-- 📝 I wish to score well on [the ICSE 2025](the ICSE 2025)
+- 📝 I wish to score well on the ICSE 2024
 
 - 💬 Improving my knowledge of **Java**
 
