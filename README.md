@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [simpleCalc](https://www.github.com/YPatlo//simpleCalc)
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/YPatlo?tab=repositories](https://www.github.com/YPatlo?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://www.github.com/YPatlo?tab=repositories)
 
 - 📝 I wish to score well on the ICSE 2024
 
