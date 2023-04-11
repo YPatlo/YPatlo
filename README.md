@@ -15,13 +15,13 @@
 
 - 👨‍💻 All of my projects are available [here](https://www.github.com/YPatlo?tab=repositories)
 
-- 📝 I wish to score well on the ICSE 2024
+- 📝 I wish to score well on the ICSE 2025
 
 - 💬 Improving my knowledge of **Java**
 
 - 📫 How to reach me **patloyashwanthkumar2@gmail.com**
 
-- ⚡ Fun fact **My 'schoolmates' call me smart.**
+- ⚡ Funny fact **My 'schoolmates' call me smart.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
