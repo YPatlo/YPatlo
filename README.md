@@ -7,17 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/ypatlo" target="blank"><img src="https://img.shields.io/twitter/follow/ypatlo?logo=twitter&style=for-the-badge" alt="ypatlo" /></a> </p>
 
-- 🔭 I’m currently working on [simpleCalc](https://www.github.com/YPatlo//simpleCalc)
-
-- 🌱 I’m currently learning **HTML, CSS**
-
-- 🤝 I’m looking for help with [simpleCalc](https://www.github.com/YPatlo//simpleCalc)
 
 - 👨‍💻 All of my projects are available [here](https://www.github.com/YPatlo?tab=repositories)
-
-- 📝 I wish to score well on the ICSE 2025
-
-- 💬 Improving my knowledge of **Java**
 
 - 📫 How to reach me **patloyashwanthkumar2@gmail.com**
 
